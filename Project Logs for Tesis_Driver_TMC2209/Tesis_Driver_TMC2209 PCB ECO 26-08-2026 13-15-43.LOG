@@ -1,0 +1,46 @@
+Add component: Footprint Not Found CAP100RP
+Add component: Footprint Not Found BORNERA2
+Add component: Footprint Not Found BORNERA2
+Added Component: Designator=J5(JUMPER2)
+Added Component: Designator=J6(SIP4)
+Add Pin To Net: Unknown Pin: Pin C5-1
+Add Pin To Net: Unknown Pin: Pin C5-2
+Add Pin To Net: Unknown Pin: Pin J3-1
+Add Pin To Net: Unknown Pin: Pin J3-2
+Add Pin To Net: Unknown Pin: Pin J4-1
+Add Pin To Net: Unknown Pin: Pin J4-2
+Added Pin To Net: NetName=A1 Pin=J6-1
+Added Pin To Net: NetName=A2 Pin=J6-2
+Added Pin To Net: NetName=B2 Pin=J6-3
+Added Pin To Net: NetName=B1 Pin=J6-4
+Added Pin To Net: NetName=3V3 Pin=R1-2
+Add Pin To Net: Unknown Pin: Pin U2-3
+Add Pin To Net: Unknown Pin: Pin U2-4
+Add Pin To Net: Unknown Pin: Pin U2-5
+Add Pin To Net: Unknown Pin: Pin U2-8
+Add Pin To Net: Unknown Pin: Pin U2-9
+Add Pin To Net: Unknown Pin: Pin U2-10
+Add Pin To Net: Unknown Pin: Pin U2-14
+Add Pin To Net: Unknown Pin: Pin U2-15
+Add Pin To Net: Unknown Pin: Pin U2-16
+Add Pin To Net: Unknown Pin: Pin U2-21
+Add Pin To Net: Unknown Pin: Pin U2-22
+Add Pin To Net: Unknown Pin: Pin U2-23
+Add Pin To Net: Unknown Pin: Pin U2-25
+Add Pin To Net: Unknown Pin: Pin U2-29
+Add Pin To Net: Unknown Pin: Pin U2-30
+Added Pin To Net: NetName=TX_drv Pin=J5-2
+Added Pin To Net: NetName=TX_drv Pin=U1-4
+Added Net: Name=TX_drv
+Added Pin To Net: NetName=TX_esp Pin=J5-1
+Added Pin To Net: NetName=TX_esp Pin=R2-2
+Added Net: Name=TX_esp
+Add Class Member: Failed to add class member : Component C5 100u
+Added Member To Class: ClassName=Tesis_Driver_TMC2209 Member=Component J2 FFC3B11-20-T
+Add Class Member: Failed to add class member : Component J3 7V
+Add Class Member: Failed to add class member : Component J4 V_MOT (5.5-28v)
+Added Member To Class: ClassName=Tesis_Driver_TMC2209 Member=Component J5 JUMPER
+Added Member To Class: ClassName=Tesis_Driver_TMC2209 Member=Component J6 CON4
+Add Class Member: Failed to add class member : Component U2 ESP32
+Added Rule: Name=Schematic Supply Nets
+Added Rule: Name=Schematic Supply Nets_1

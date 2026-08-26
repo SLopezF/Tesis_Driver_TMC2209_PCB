@@ -1,0 +1,49 @@
+Removed Pin From Net: NetName=CS_ENC Pin=J1-12
+Removed Pin From Net: NetName=TX_drv Pin=J5-2
+Change Component Library : Designator=J1 Old Library=FFC3B11-20-T.IntLib New Library=Trinamics Drivers.SchLib
+Change Component Library : Designator=J2 Old Library=FFC3B11-20-T.IntLib New Library=Trinamics Drivers.SchLib
+Change Component Library : Designator=J3 Old Library=LIB PIO IX.IntLib New Library=Trinamics Drivers.SchLib
+Change Component Library : Designator=J4 Old Library=LIB PIO IX.IntLib New Library=Trinamics Drivers.SchLib
+Add component: Footprint Not Found CAP100RP
+Added Component: Designator=J5(JUMPER2)
+Added Component: Designator=U2(MODULE_ESP32_DEVKIT_V1)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/ESP32-DEVKIT-V1/Do+it/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Do it"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "ESP32-DEVKIT-V1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/ESP32-DEVKIT-V1/Do+it/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Add Pin To Net: Unknown Pin: Pin C5-1
+Add Pin To Net: Unknown Pin: Pin C5-2
+Added Pin To Net: NetName=CS_ENC Pin=J1-6
+Added Pin To Net: NetName=TX_drv Pin=J5-2
+Added Pin To Net: NetName=GND Pin=U1-16
+Added Pin To Net: NetName=NetU1_15 Pin=U2-1
+Added Pin To Net: NetName=GND Pin=U2-2
+Added Pin To Net: NetName=NetR2_1 Pin=U2-6
+Added Pin To Net: NetName=CS Pin=U2-8
+Added Pin To Net: NetName=GPIO11 (SCLK) Pin=U2-9
+Added Pin To Net: NetName=GPIO9 (MISO) Pin=U2-10
+Added Pin To Net: NetName=GPIO10 (MOSI) Pin=U2-15
+Added Pin To Net: NetName=ENC_N Pin=U2-18
+Added Pin To Net: NetName=A Pin=U2-19
+Added Pin To Net: NetName=B Pin=U2-20
+Added Pin To Net: NetName=GND Pin=U2-29
+Added Pin To Net: NetName=5V Pin=U2-30
+Added Pin To Net: NetName=DIR Pin=U1-8
+Added Pin To Net: NetName=DIR Pin=U2-25
+Added Net: Name=DIR
+Added Pin To Net: NetName=EN Pin=R1-1
+Added Pin To Net: NetName=EN Pin=U1-1
+Added Pin To Net: NetName=EN Pin=U2-23
+Added Net: Name=EN
+Added Pin To Net: NetName=GPIO4 (GPSLK0) Pin=J1-12
+Added Net: Name=GPIO4 (GPSLK0)
+Added Pin To Net: NetName=NetJ5_1 Pin=J5-1
+Added Pin To Net: NetName=NetJ5_1 Pin=R2-2
+Added Net: Name=NetJ5_1
+Added Pin To Net: NetName=STEP Pin=U1-7
+Added Pin To Net: NetName=STEP Pin=U2-24
+Added Net: Name=STEP
+Add Class Member: Failed to add class member : Component C5 100u
+Added Member To Class: ClassName=Tesis_Driver_TMC2209 Member=Component U2 ESP32-DEVKIT-V1

@@ -1,0 +1,29 @@
+Add component: Footprint Not Found CAP100RP
+Added Component: Designator=J3(BORNERA2)
+Added Component: Designator=J4(BORNERA2)
+Add Pin To Net: Unknown Pin: Pin C5-1
+Add Pin To Net: Unknown Pin: Pin C5-2
+Added Pin To Net: NetName=NetC2_1 Pin=J3-1
+Added Pin To Net: NetName=GND Pin=J3-2
+Added Pin To Net: NetName=VM Pin=J4-1
+Added Pin To Net: NetName=GND Pin=J4-2
+Add Pin To Net: Unknown Pin: Pin U2-3
+Add Pin To Net: Unknown Pin: Pin U2-4
+Add Pin To Net: Unknown Pin: Pin U2-5
+Add Pin To Net: Unknown Pin: Pin U2-8
+Add Pin To Net: Unknown Pin: Pin U2-9
+Add Pin To Net: Unknown Pin: Pin U2-10
+Add Pin To Net: Unknown Pin: Pin U2-14
+Add Pin To Net: Unknown Pin: Pin U2-15
+Add Pin To Net: Unknown Pin: Pin U2-16
+Add Pin To Net: Unknown Pin: Pin U2-21
+Add Pin To Net: Unknown Pin: Pin U2-22
+Add Pin To Net: Unknown Pin: Pin U2-23
+Add Pin To Net: Unknown Pin: Pin U2-24
+Add Pin To Net: Unknown Pin: Pin U2-25
+Add Pin To Net: Unknown Pin: Pin U2-29
+Add Pin To Net: Unknown Pin: Pin U2-30
+Add Class Member: Failed to add class member : Component C5 100u
+Added Member To Class: ClassName=Tesis_Driver_TMC2209 Member=Component J3 7V
+Added Member To Class: ClassName=Tesis_Driver_TMC2209 Member=Component J4 V_MOT (5.5-28v)
+Add Class Member: Failed to add class member : Component U2 ESP32
